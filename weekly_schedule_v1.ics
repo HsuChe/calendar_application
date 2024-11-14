@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Job Scraper Setup
+DTSTART;TZID=America/New_York:20241118T070000
+DTEND;TZID=America/New_York:20241118T080000
+UID:7416989007268371984
+DESCRIPTION:Set up the framework to scrape LinkedIn job listings and defin
+ e job roles you qualify for
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Scraper Framework
+DTSTART;TZID=America/New_York:20241118T100000
+DTEND;TZID=America/New_York:20241118T120000
+UID:2003257683095314990
+DESCRIPTION:Set up authentication\, define data structures\, implement bas
+ ic scraping framework
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Project Planning
+DTSTART;TZID=America/New_York:20241118T130000
+DTEND;TZID=America/New_York:20241118T150000
+UID:3591856399318293350
+DESCRIPTION:Set up project structure\, define architecture\, create initia
+ l repositories
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Training
+DTSTART;TZID=America/New_York:20241118T170000
+DTEND;TZID=America/New_York:20241118T183000
+UID:4080659287938045392
+DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Search Planning
+DTSTART;TZID=America/New_York:20241118T200000
+DTEND;TZID=America/New_York:20241118T210000
+UID:5618742655734294406
+DESCRIPTION:Research job requirements\, plan data structures for storage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Scraping Functionality
+DTSTART;TZID=America/New_York:20241119T070000
+DTEND;TZID=America/New_York:20241119T080000
+UID:2725024508422931359
+DESCRIPTION:Develop core scraping functions for LinkedIn jobs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Data Parsing
+DTSTART;TZID=America/New_York:20241119T100000
+DTEND;TZID=America/New_York:20241119T120000
+UID:8442689203138271394
+DESCRIPTION:Implement parsing for job titles\, descriptions\, and requirem
+ ents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Rule Creation UI
+DTSTART;TZID=America/New_York:20241119T130000
+DTEND;TZID=America/New_York:20241119T150000
+UID:6111738578964189814
+DESCRIPTION:Start building the interface for rule creation and management
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Training
+DTSTART;TZID=America/New_York:20241119T170000
+DTEND;TZID=America/New_York:20241119T183000
+UID:7953931376370113668
+DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Database Setup
+DTSTART;TZID=America/New_York:20241119T200000
+DTEND;TZID=America/New_York:20241119T210000
+UID:2257179150438690580
+DESCRIPTION:Set up database schema for storing scraped jobs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Resume Generator
+DTSTART;TZID=America/New_York:20241120T070000
+DTEND;TZID=America/New_York:20241120T080000
+UID:6724964832213402480
+DESCRIPTION:Start building the automated resume generation system
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Cover Letter Generator
+DTSTART;TZID=America/New_York:20241120T100000
+DTEND;TZID=America/New_York:20241120T120000
+UID:8959922454700167851
+DESCRIPTION:Develop cover letter generation based on job descriptions
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Rule Processing
+DTSTART;TZID=America/New_York:20241120T130000
+DTEND;TZID=America/New_York:20241120T150000
+UID:8029330704637674881
+DESCRIPTION:Implement basic rule processing and validation logic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Training
+DTSTART;TZID=America/New_York:20241120T170000
+DTEND;TZID=America/New_York:20241120T183000
+UID:2708159586010854937
+DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Template Creation
+DTSTART;TZID=America/New_York:20241120T200000
+DTEND;TZID=America/New_York:20241120T210000
+UID:2088510018379522390
+DESCRIPTION:Create templates for resume and cover letter generation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Data Storage
+DTSTART;TZID=America/New_York:20241121T070000
+DTEND;TZID=America/New_York:20241121T080000
+UID:5890777023258589208
+DESCRIPTION:Implement MongoDB/PostgreSQL integration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Application Tracking
+DTSTART;TZID=America/New_York:20241121T100000
+DTEND;TZID=America/New_York:20241121T120000
+UID:4508788230078324718
+DESCRIPTION:Build system to track job applications and status
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Rule Transformation
+DTSTART;TZID=America/New_York:20241121T130000
+DTEND;TZID=America/New_York:20241121T150000
+UID:8013327590103900915
+DESCRIPTION:Start implementing the LLM integration for rule transformation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Training
+DTSTART;TZID=America/New_York:20241121T170000
+DTEND;TZID=America/New_York:20241121T183000
+UID:8365922502020476968
+DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Export Features
+DTSTART;TZID=America/New_York:20241121T200000
+DTEND;TZID=America/New_York:20241121T210000
+UID:6267337555636663232
+DESCRIPTION:Build Excel export functionality for tracked applications
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Testing
+DTSTART;TZID=America/New_York:20241122T070000
+DTEND;TZID=America/New_York:20241122T080000
+UID:3233018458565054168
+DESCRIPTION:Test scraper functionality with sample job listings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Integration Testing
+DTSTART;TZID=America/New_York:20241122T100000
+DTEND;TZID=America/New_York:20241122T120000
+UID:5595953602565759732
+DESCRIPTION:Test full pipeline from scraping to document generation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Data Upload
+DTSTART;TZID=America/New_York:20241122T130000
+DTEND;TZID=America/New_York:20241122T150000
+UID:7622556032326154297
+DESCRIPTION:Begin implementing data upload and parsing features
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Training
+DTSTART;TZID=America/New_York:20241122T170000
+DTEND;TZID=America/New_York:20241122T183000
+UID:1332904311980103035
+DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Review & Planning
+DTSTART;TZID=America/New_York:20241122T200000
+DTEND;TZID=America/New_York:20241122T210000
+UID:5643433775724107576
+DESCRIPTION:Review week's progress and plan next week's tasks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Deep Work
+DTSTART;TZID=America/New_York:20241123T090000
+DTEND;TZID=America/New_York:20241123T130000
+UID:8074125616691895643
+DESCRIPTION:Focus on core CMS features and catch up on weekly tasks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Feature Polish
+DTSTART;TZID=America/New_York:20241123T140000
+DTEND;TZID=America/New_York:20241123T160000
+UID:1513332724654820253
+DESCRIPTION:Polish features and fix any issues from the week
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends - Extended Practice
+DTSTART;TZID=America/New_York:20241124T100000
+DTEND;TZID=America/New_York:20241124T120000
+UID:1628534862031018500
+DESCRIPTION:In-depth gameplay review and practice session
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Planning
+DTSTART;TZID=America/New_York:20241124T130000
+DTEND;TZID=America/New_York:20241124T150000
+UID:2787159005433558736
+DESCRIPTION:Review progress and plan next week's objectives
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Job Scraper Setup
+DTSTART;TZID=America/New_York:20241111T070000
+DTEND;TZID=America/New_York:20241111T080000
+DESCRIPTION:Job Hunt Automation for LinkedIn job scraper setup.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Hunt Automation - Job Scraper Setup
+DTSTART;TZID=America/New_York:20241111T100000
+DTEND;TZID=America/New_York:20241111T120000
+DESCRIPTION:Job Hunt Automation for LinkedIn job scraper setup.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application Deep Work - Preparation for end-of-week tasks
+DTSTART;TZID=America/New_York:20241111T130000
+DTEND;TZID=America/New_York:20241111T150000
+DESCRIPTION:Deep work preparation for CMS Application end-of-week tasks.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Training - Esports Review\, Solo Practice\, Rank
+ ed Play
+DTSTART;TZID=America/New_York:20241111T170000
+DTEND;TZID=America/New_York:20241111T183000
+DESCRIPTION:Training session including esports review\, solo practice\, an
+ d a ranked match.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Search Refinement & Networking
+DTSTART;TZID=America/New_York:20241111T200000
+DTEND;TZID=America/New_York:20241111T210000
+DESCRIPTION:Apply to jobs\, customize applications\, and network on Linked
+ In.
+END:VEVENT
+END:VCALENDAR

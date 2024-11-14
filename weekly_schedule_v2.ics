@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:CMS Application - Initial Project Setup
+DTSTART:20241118T090000
+DTEND:20241118T120000
+UID:5259168210068764840
+DESCRIPTION:Project structure setup\, virtual environment configuration\, 
+ git initialization\, dependency installation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Backend Foundation
+DTSTART:20241118T130000
+DTEND:20241118T150000
+UID:3935671634499759505
+DESCRIPTION:FastAPI setup\, basic routing configuration\, test framework i
+ nitialization
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - File Processing Module
+DTSTART:20241119T090000
+DTEND:20241119T120000
+UID:3568443355850562104
+DESCRIPTION:CSV validation implementation\, file upload utilities\, error 
+ handling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Testing Framework
+DTSTART:20241119T130000
+DTEND:20241119T150000
+UID:2031765812280086136
+DESCRIPTION:Test fixtures creation\, validation tests\, error handling tes
+ ts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - ML Service Foundation
+DTSTART:20241120T090000
+DTEND:20241120T120000
+UID:3589900708631413404
+DESCRIPTION:ML service architecture\, feature preparation utilities\, data
+  transformer implementation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - ML Model Core
+DTSTART:20241120T130000
+DTEND:20241120T150000
+UID:1479108958031118199
+DESCRIPTION:Scoring mechanism\, model loading utilities\, feature scaling 
+ setup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Database Architecture
+DTSTART:20241121T090000
+DTEND:20241121T120000
+UID:5149215217932587577
+DESCRIPTION:Database setup\, repository pattern implementation\, schema de
+ sign
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Database Implementation
+DTSTART:20241121T130000
+DTEND:20241121T150000
+UID:693536031448755439
+DESCRIPTION:CRUD operations\, data models\, repository tests
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Integration Phase 1
+DTSTART:20241122T090000
+DTEND:20241122T120000
+UID:8221613314261780858
+DESCRIPTION:Backend service integration\, testing connectivity\, error han
+ dling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Week 1 Review
+DTSTART:20241122T130000
+DTEND:20241122T150000
+UID:4594023284897963695
+DESCRIPTION:Code review\, documentation update\, next week planning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Frontend Setup
+DTSTART:20241125T090000
+DTEND:20241125T120000
+UID:6350487537333618148
+DESCRIPTION:Next.js setup\, Material-UI integration\, component structure
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Upload Component
+DTSTART:20241125T130000
+DTEND:20241125T150000
+UID:1581636464162802860
+DESCRIPTION:File upload component\, progress indicator\, error handling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - DataGrid Component
+DTSTART:20241126T090000
+DTEND:20241126T120000
+UID:2489616295783574273
+DESCRIPTION:Data display grid\, sorting functionality\, filtering implemen
+ tation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Frontend Testing
+DTSTART:20241126T130000
+DTEND:20241126T150000
+UID:2865124806855670699
+DESCRIPTION:Component tests\, integration tests\, UI testing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - API Integration
+DTSTART:20241127T090000
+DTEND:20241127T120000
+UID:1409840835032772689
+DESCRIPTION:API service implementation\, error handling\, loading states
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Frontend Polish
+DTSTART:20241127T130000
+DTEND:20241127T150000
+UID:4060809582172096932
+DESCRIPTION:UI refinements\, responsive design\, accessibility
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - User Feedback
+DTSTART:20241128T090000
+DTEND:20241128T120000
+UID:7636423706832919596
+DESCRIPTION:Error messages\, loading indicators\, success notifications
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Frontend Integration
+DTSTART:20241128T130000
+DTEND:20241128T150000
+UID:983104879128462826
+DESCRIPTION:Full frontend-backend integration testing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Week 2 Review
+DTSTART:20241129T090000
+DTEND:20241129T120000
+UID:6682093812461934018
+DESCRIPTION:Frontend review\, documentation\, next week planning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - ML Pipeline Integration
+DTSTART:20241202T090000
+DTEND:20241202T120000
+UID:4725464683545411935
+DESCRIPTION:ML service integration\, data processing pipeline
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Feature Engineering
+DTSTART:20241202T130000
+DTEND:20241202T150000
+UID:8400694257451920181
+DESCRIPTION:Feature extraction\, transformation implementation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Model Optimization
+DTSTART:20241203T090000
+DTEND:20241203T120000
+UID:5225682686481911221
+DESCRIPTION:Performance optimization\, model tuning\, validation metrics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Batch Processing
+DTSTART:20241203T130000
+DTEND:20241203T150000
+UID:8268629110399500250
+DESCRIPTION:Implement batch processing for large datasets\, progress track
+ ing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - ML Testing
+DTSTART:20241204T090000
+DTEND:20241204T120000
+UID:781994949298653830
+DESCRIPTION:ML pipeline testing\, accuracy validation\, error analysis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Error Handling
+DTSTART:20241204T130000
+DTEND:20241204T150000
+UID:620228027913619180
+DESCRIPTION:ML service error handling\, fallback strategies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Performance Testing
+DTSTART:20241205T090000
+DTEND:20241205T120000
+UID:4695529560575811294
+DESCRIPTION:Load testing\, performance optimization\, bottleneck identific
+ ation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Week 3 Review
+DTSTART:20241206T090000
+DTEND:20241206T120000
+UID:8480449126402523526
+DESCRIPTION:ML integration review\, documentation update\, next week plann
+ ing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Integration Testing
+DTSTART:20241209T090000
+DTEND:20241209T120000
+UID:1762717392152906343
+DESCRIPTION:End-to-end testing\, integration test suite development
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Unit Testing
+DTSTART:20241209T130000
+DTEND:20241209T150000
+UID:2578856603852941690
+DESCRIPTION:Comprehensive unit test coverage\, edge case testing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Security Implementation
+DTSTART:20241210T090000
+DTEND:20241210T120000
+UID:6091912060053261549
+DESCRIPTION:Security testing\, vulnerability assessment\, authentication i
+ mplementation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Performance Optimization
+DTSTART:20241210T130000
+DTEND:20241210T150000
+UID:1972616089194597756
+DESCRIPTION:Performance tuning\, caching implementation\, query optimizati
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - User Acceptance Testing
+DTSTART:20241211T090000
+DTEND:20241211T120000
+UID:415811428269586927
+DESCRIPTION:UAT preparation\, test case documentation\, feedback collectio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Bug Fixing
+DTSTART:20241211T130000
+DTEND:20241211T150000
+UID:6782686902313169259
+DESCRIPTION:Address UAT feedback\, bug fixes\, regression testing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Documentation
+DTSTART:20241212T090000
+DTEND:20241212T120000
+UID:1279489131245668041
+DESCRIPTION:API documentation\, user guides\, deployment documentation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Week 4 Review
+DTSTART:20241213T090000
+DTEND:20241213T120000
+UID:3754823639394493564
+DESCRIPTION:Quality assurance review\, documentation finalization\, deploy
+ ment planning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Deployment Setup
+DTSTART:20241216T090000
+DTEND:20241216T120000
+UID:2313613195653104358
+DESCRIPTION:Production environment setup\, deployment pipeline configurati
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Monitoring Setup
+DTSTART:20241216T130000
+DTEND:20241216T150000
+UID:3036807257599615219
+DESCRIPTION:Monitoring tools integration\, alert setup\, logging configura
+ tion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - CI/CD Pipeline
+DTSTART:20241217T090000
+DTEND:20241217T120000
+UID:8227645483939312969
+DESCRIPTION:CI/CD pipeline setup\, automated testing integration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Staging Deployment
+DTSTART:20241217T130000
+DTEND:20241217T150000
+UID:7992814541676714532
+DESCRIPTION:Staging environment deployment\, testing verification
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Production Deployment
+DTSTART:20241218T090000
+DTEND:20241218T120000
+UID:4211886820956070721
+DESCRIPTION:Production deployment\, smoke testing\, monitoring verificatio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Post-Deployment Testing
+DTSTART:20241218T130000
+DTEND:20241218T150000
+UID:6563452936859779602
+DESCRIPTION:Production testing\, performance verification\, monitoring che
+ ck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Final Review
+DTSTART:20241219T090000
+DTEND:20241219T120000
+UID:8785964601002160760
+DESCRIPTION:Final system review\, documentation review\, handover preparat
+ ion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Project Handover
+DTSTART:20241219T130000
+DTEND:20241219T150000
+UID:6626483167358800503
+DESCRIPTION:Knowledge transfer\, documentation handover\, support setup
+END:VEVENT
+END:VCALENDAR
