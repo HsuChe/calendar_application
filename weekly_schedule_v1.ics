@@ -2,210 +2,325 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Job Scraper Setup
-DTSTART;TZID=America/New_York:20241118T070000
-DTEND;TZID=America/New_York:20241118T080000
-UID:7416989007268371984
-DESCRIPTION:Set up the framework to scrape LinkedIn job listings and defin
- e job roles you qualify for
+SUMMARY:CMS Application - Initial Project Setup
+DTSTART:20241118T090000
+DTEND:20241118T120000
+UID:3432366457196351225
+DESCRIPTION:Project structure setup\, virtual environment configuration\, 
+ git initialization\, dependency installation
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Scraper Framework
-DTSTART;TZID=America/New_York:20241118T100000
-DTEND;TZID=America/New_York:20241118T120000
-UID:2003257683095314990
-DESCRIPTION:Set up authentication\, define data structures\, implement bas
- ic scraping framework
+SUMMARY:CMS Application - Backend Foundation
+DTSTART:20241118T130000
+DTEND:20241118T150000
+UID:356946569870512477
+DESCRIPTION:FastAPI setup\, basic routing configuration\, test framework i
+ nitialization
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMS Application - Project Planning
-DTSTART;TZID=America/New_York:20241118T130000
-DTEND;TZID=America/New_York:20241118T150000
-UID:3591856399318293350
-DESCRIPTION:Set up project structure\, define architecture\, create initia
- l repositories
+SUMMARY:CMS Application - File Processing Module
+DTSTART:20241119T090000
+DTEND:20241119T120000
+UID:6961694933171498308
+DESCRIPTION:CSV validation implementation\, file upload utilities\, error 
+ handling
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends Training
-DTSTART;TZID=America/New_York:20241118T170000
-DTEND;TZID=America/New_York:20241118T183000
-UID:4080659287938045392
-DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+SUMMARY:CMS Application - Testing Framework
+DTSTART:20241119T130000
+DTEND:20241119T150000
+UID:1163825241046597726
+DESCRIPTION:Test fixtures creation\, validation tests\, error handling tes
+ ts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Search Planning
-DTSTART;TZID=America/New_York:20241118T200000
-DTEND;TZID=America/New_York:20241118T210000
-UID:5618742655734294406
-DESCRIPTION:Research job requirements\, plan data structures for storage
+SUMMARY:CMS Application - ML Service Foundation
+DTSTART:20241120T090000
+DTEND:20241120T120000
+UID:2115674943140938725
+DESCRIPTION:ML service architecture\, feature preparation utilities\, data
+  transformer implementation
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Scraping Functionality
-DTSTART;TZID=America/New_York:20241119T070000
-DTEND;TZID=America/New_York:20241119T080000
-UID:2725024508422931359
-DESCRIPTION:Develop core scraping functions for LinkedIn jobs
+SUMMARY:CMS Application - ML Model Core
+DTSTART:20241120T130000
+DTEND:20241120T150000
+UID:2749041000344735342
+DESCRIPTION:Scoring mechanism\, model loading utilities\, feature scaling 
+ setup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Data Parsing
-DTSTART;TZID=America/New_York:20241119T100000
-DTEND;TZID=America/New_York:20241119T120000
-UID:8442689203138271394
-DESCRIPTION:Implement parsing for job titles\, descriptions\, and requirem
- ents
+SUMMARY:CMS Application - Database Architecture
+DTSTART:20241121T090000
+DTEND:20241121T120000
+UID:463225907886948188
+DESCRIPTION:Database setup\, repository pattern implementation\, schema de
+ sign
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMS Application - Rule Creation UI
-DTSTART;TZID=America/New_York:20241119T130000
-DTEND;TZID=America/New_York:20241119T150000
-UID:6111738578964189814
-DESCRIPTION:Start building the interface for rule creation and management
+SUMMARY:CMS Application - Database Implementation
+DTSTART:20241121T130000
+DTEND:20241121T150000
+UID:4703345251557488075
+DESCRIPTION:CRUD operations\, data models\, repository tests
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends Training
-DTSTART;TZID=America/New_York:20241119T170000
-DTEND;TZID=America/New_York:20241119T183000
-UID:7953931376370113668
-DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+SUMMARY:CMS Application - Integration Phase 1
+DTSTART:20241122T090000
+DTEND:20241122T120000
+UID:26558978202538238
+DESCRIPTION:Backend service integration\, testing connectivity\, error han
+ dling
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Database Setup
-DTSTART;TZID=America/New_York:20241119T200000
-DTEND;TZID=America/New_York:20241119T210000
-UID:2257179150438690580
-DESCRIPTION:Set up database schema for storing scraped jobs
+SUMMARY:CMS Application - Week 1 Review
+DTSTART:20241122T130000
+DTEND:20241122T150000
+UID:1009511212175503116
+DESCRIPTION:Code review\, documentation update\, next week planning
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Resume Generator
-DTSTART;TZID=America/New_York:20241120T070000
-DTEND;TZID=America/New_York:20241120T080000
-UID:6724964832213402480
-DESCRIPTION:Start building the automated resume generation system
+SUMMARY:CMS Application - Frontend Setup
+DTSTART:20241125T090000
+DTEND:20241125T120000
+UID:986945022647295447
+DESCRIPTION:Next.js setup\, Material-UI integration\, component structure
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Cover Letter Generator
-DTSTART;TZID=America/New_York:20241120T100000
-DTEND;TZID=America/New_York:20241120T120000
-UID:8959922454700167851
-DESCRIPTION:Develop cover letter generation based on job descriptions
+SUMMARY:CMS Application - Upload Component
+DTSTART:20241125T130000
+DTEND:20241125T150000
+UID:4776569102422948404
+DESCRIPTION:File upload component\, progress indicator\, error handling
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMS Application - Rule Processing
-DTSTART;TZID=America/New_York:20241120T130000
-DTEND;TZID=America/New_York:20241120T150000
-UID:8029330704637674881
-DESCRIPTION:Implement basic rule processing and validation logic
+SUMMARY:CMS Application - DataGrid Component
+DTSTART:20241126T090000
+DTEND:20241126T120000
+UID:8683623390886008985
+DESCRIPTION:Data display grid\, sorting functionality\, filtering implemen
+ tation
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends Training
-DTSTART;TZID=America/New_York:20241120T170000
-DTEND;TZID=America/New_York:20241120T183000
-UID:2708159586010854937
-DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+SUMMARY:CMS Application - Frontend Testing
+DTSTART:20241126T130000
+DTEND:20241126T150000
+UID:5598168700689238502
+DESCRIPTION:Component tests\, integration tests\, UI testing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Template Creation
-DTSTART;TZID=America/New_York:20241120T200000
-DTEND;TZID=America/New_York:20241120T210000
-UID:2088510018379522390
-DESCRIPTION:Create templates for resume and cover letter generation
+SUMMARY:CMS Application - API Integration
+DTSTART:20241127T090000
+DTEND:20241127T120000
+UID:4237593415893235798
+DESCRIPTION:API service implementation\, error handling\, loading states
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Data Storage
-DTSTART;TZID=America/New_York:20241121T070000
-DTEND;TZID=America/New_York:20241121T080000
-UID:5890777023258589208
-DESCRIPTION:Implement MongoDB/PostgreSQL integration
+SUMMARY:CMS Application - Frontend Polish
+DTSTART:20241127T130000
+DTEND:20241127T150000
+UID:4411117675783786530
+DESCRIPTION:UI refinements\, responsive design\, accessibility
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Application Tracking
-DTSTART;TZID=America/New_York:20241121T100000
-DTEND;TZID=America/New_York:20241121T120000
-UID:4508788230078324718
-DESCRIPTION:Build system to track job applications and status
+SUMMARY:CMS Application - User Feedback
+DTSTART:20241128T090000
+DTEND:20241128T120000
+UID:5657287315730173705
+DESCRIPTION:Error messages\, loading indicators\, success notifications
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMS Application - Rule Transformation
-DTSTART;TZID=America/New_York:20241121T130000
-DTEND;TZID=America/New_York:20241121T150000
-UID:8013327590103900915
-DESCRIPTION:Start implementing the LLM integration for rule transformation
+SUMMARY:CMS Application - Frontend Integration
+DTSTART:20241128T130000
+DTEND:20241128T150000
+UID:8694492265172162103
+DESCRIPTION:Full frontend-backend integration testing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends Training
-DTSTART;TZID=America/New_York:20241121T170000
-DTEND;TZID=America/New_York:20241121T183000
-UID:8365922502020476968
-DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+SUMMARY:CMS Application - Week 2 Review
+DTSTART:20241129T090000
+DTEND:20241129T120000
+UID:3617327015969936119
+DESCRIPTION:Frontend review\, documentation\, next week planning
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Export Features
-DTSTART;TZID=America/New_York:20241121T200000
-DTEND;TZID=America/New_York:20241121T210000
-UID:6267337555636663232
-DESCRIPTION:Build Excel export functionality for tracked applications
+SUMMARY:CMS Application - ML Pipeline Integration
+DTSTART:20241202T090000
+DTEND:20241202T120000
+UID:180859718208198888
+DESCRIPTION:ML service integration\, data processing pipeline
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Testing
-DTSTART;TZID=America/New_York:20241122T070000
-DTEND;TZID=America/New_York:20241122T080000
-UID:3233018458565054168
-DESCRIPTION:Test scraper functionality with sample job listings
+SUMMARY:CMS Application - Feature Engineering
+DTSTART:20241202T130000
+DTEND:20241202T150000
+UID:6683328578920170676
+DESCRIPTION:Feature extraction\, transformation implementation
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Integration Testing
-DTSTART;TZID=America/New_York:20241122T100000
-DTEND;TZID=America/New_York:20241122T120000
-UID:5595953602565759732
-DESCRIPTION:Test full pipeline from scraping to document generation
+SUMMARY:CMS Application - Model Optimization
+DTSTART:20241203T090000
+DTEND:20241203T120000
+UID:3284416870789338812
+DESCRIPTION:Performance optimization\, model tuning\, validation metrics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMS Application - Data Upload
-DTSTART;TZID=America/New_York:20241122T130000
-DTEND;TZID=America/New_York:20241122T150000
-UID:7622556032326154297
-DESCRIPTION:Begin implementing data upload and parsing features
+SUMMARY:CMS Application - Batch Processing
+DTSTART:20241203T130000
+DTEND:20241203T150000
+UID:6624720513040130784
+DESCRIPTION:Implement batch processing for large datasets\, progress track
+ ing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends Training
-DTSTART;TZID=America/New_York:20241122T170000
-DTEND;TZID=America/New_York:20241122T183000
-UID:1332904311980103035
-DESCRIPTION:30min Esports Review\, 30min Solo Practice\, 30min Ranked Play
+SUMMARY:CMS Application - ML Testing
+DTSTART:20241204T090000
+DTEND:20241204T120000
+UID:9090074356025017669
+DESCRIPTION:ML pipeline testing\, accuracy validation\, error analysis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weekly Review & Planning
-DTSTART;TZID=America/New_York:20241122T200000
-DTEND;TZID=America/New_York:20241122T210000
-UID:5643433775724107576
-DESCRIPTION:Review week's progress and plan next week's tasks
+SUMMARY:CMS Application - Error Handling
+DTSTART:20241204T130000
+DTEND:20241204T150000
+UID:8375474345089611538
+DESCRIPTION:ML service error handling\, fallback strategies
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMS Application - Deep Work
-DTSTART;TZID=America/New_York:20241123T090000
-DTEND;TZID=America/New_York:20241123T130000
-UID:8074125616691895643
-DESCRIPTION:Focus on core CMS features and catch up on weekly tasks
+SUMMARY:CMS Application - Performance Testing
+DTSTART:20241205T090000
+DTEND:20241205T120000
+UID:9182510903063141854
+DESCRIPTION:Load testing\, performance optimization\, bottleneck identific
+ ation
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Hunt Automation - Feature Polish
-DTSTART;TZID=America/New_York:20241123T140000
-DTEND;TZID=America/New_York:20241123T160000
-UID:1513332724654820253
-DESCRIPTION:Polish features and fix any issues from the week
+SUMMARY:CMS Application - Week 3 Review
+DTSTART:20241206T090000
+DTEND:20241206T120000
+UID:8950176390405290612
+DESCRIPTION:ML integration review\, documentation update\, next week plann
+ ing
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends - Extended Practice
-DTSTART;TZID=America/New_York:20241124T100000
-DTEND;TZID=America/New_York:20241124T120000
-UID:1628534862031018500
-DESCRIPTION:In-depth gameplay review and practice session
+SUMMARY:CMS Application - Integration Testing
+DTSTART:20241209T090000
+DTEND:20241209T120000
+UID:1534281605464165989
+DESCRIPTION:End-to-end testing\, integration test suite development
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weekly Planning
-DTSTART;TZID=America/New_York:20241124T130000
-DTEND;TZID=America/New_York:20241124T150000
-UID:2787159005433558736
-DESCRIPTION:Review progress and plan next week's objectives
+SUMMARY:CMS Application - Unit Testing
+DTSTART:20241209T130000
+DTEND:20241209T150000
+UID:8434846510739061155
+DESCRIPTION:Comprehensive unit test coverage\, edge case testing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Security Implementation
+DTSTART:20241210T090000
+DTEND:20241210T120000
+UID:1681964667309167212
+DESCRIPTION:Security testing\, vulnerability assessment\, authentication i
+ mplementation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Performance Optimization
+DTSTART:20241210T130000
+DTEND:20241210T150000
+UID:2474815706555497346
+DESCRIPTION:Performance tuning\, caching implementation\, query optimizati
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - User Acceptance Testing
+DTSTART:20241211T090000
+DTEND:20241211T120000
+UID:6341555971941245367
+DESCRIPTION:UAT preparation\, test case documentation\, feedback collectio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Bug Fixing
+DTSTART:20241211T130000
+DTEND:20241211T150000
+UID:2363254607070924389
+DESCRIPTION:Address UAT feedback\, bug fixes\, regression testing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Documentation
+DTSTART:20241212T090000
+DTEND:20241212T120000
+UID:8067811790403458571
+DESCRIPTION:API documentation\, user guides\, deployment documentation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Week 4 Review
+DTSTART:20241213T090000
+DTEND:20241213T120000
+UID:2580163662301760777
+DESCRIPTION:Quality assurance review\, documentation finalization\, deploy
+ ment planning
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Deployment Setup
+DTSTART:20241216T090000
+DTEND:20241216T120000
+UID:4965925603931660791
+DESCRIPTION:Production environment setup\, deployment pipeline configurati
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Monitoring Setup
+DTSTART:20241216T130000
+DTEND:20241216T150000
+UID:3691145822502998049
+DESCRIPTION:Monitoring tools integration\, alert setup\, logging configura
+ tion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - CI/CD Pipeline
+DTSTART:20241217T090000
+DTEND:20241217T120000
+UID:3091231290617417976
+DESCRIPTION:CI/CD pipeline setup\, automated testing integration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Staging Deployment
+DTSTART:20241217T130000
+DTEND:20241217T150000
+UID:2478830450190794543
+DESCRIPTION:Staging environment deployment\, testing verification
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Production Deployment
+DTSTART:20241218T090000
+DTEND:20241218T120000
+UID:8072752246259640162
+DESCRIPTION:Production deployment\, smoke testing\, monitoring verificatio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Post-Deployment Testing
+DTSTART:20241218T130000
+DTEND:20241218T150000
+UID:3558949127738603510
+DESCRIPTION:Production testing\, performance verification\, monitoring che
+ ck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Final Review
+DTSTART:20241219T090000
+DTEND:20241219T120000
+UID:8320176670058022852
+DESCRIPTION:Final system review\, documentation review\, handover preparat
+ ion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS Application - Project Handover
+DTSTART:20241219T130000
+DTEND:20241219T150000
+UID:8192056038250989102
+DESCRIPTION:Knowledge transfer\, documentation handover\, support setup
 END:VEVENT
 END:VCALENDAR
