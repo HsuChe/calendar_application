@@ -1,2 +1,5 @@
 # Ignore weekly schedule files
 weekly_schedule_v*.ics
+
+# Ignore changelog file
+changelog.txt
